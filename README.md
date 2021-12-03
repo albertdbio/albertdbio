@@ -4,6 +4,9 @@ Welcome to my Github.
 
 I specialize in designing and developing mobile applications that encourage positive behavior change.
 
+Interests inculde:
+React
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
