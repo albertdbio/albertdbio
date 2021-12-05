@@ -5,7 +5,8 @@ Welcome to my Github.
 I specialize in designing and developing mobile applications that encourage positive behavior change.
 
 Interests inculde:
-React
+React, Swift, Machine Learning, NLP and Brain/Bio technology.
+Yes, that is a wide range of interest but they are all a means to help humans be more helpful to each other and the enviorment.
 
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
