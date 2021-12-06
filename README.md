@@ -6,7 +6,10 @@ I specialize in designing and developing mobile applications that encourage posi
 
 Interests inculde:
 React, Swift, Machine Learning, NLP and Brain/Bio technology.
-Yes, that is a wide range of interest but they are all a means to help humans be more helpful to each other and the enviorment.
+Yes, that is a wide range of interest but they are all a means to help humans be more helpful to each other and the environment.
+
+I have experience developing specialized ecommerce experiences.
+My latest work involved deploying Reaction Commerce with item configuration features.
 
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
