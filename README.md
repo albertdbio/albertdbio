@@ -10,6 +10,7 @@ Yes, that is a wide range of interest but they are all a means to help humans be
 
 I have experience developing specialized ecommerce experiences.
 My latest work involved deploying Reaction Commerce with item configuration features.
+This was deployed using AWS Elastic Beanstalk.
 
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
