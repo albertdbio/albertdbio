@@ -12,6 +12,10 @@ I have experience developing specialized ecommerce experiences.
 My latest work involved deploying Reaction Commerce with item configuration features.
 This was deployed using AWS Elastic Beanstalk.
 
+I have a keen intrest in the abstract idea of connections and graphs. On a higher level of abstraction, graphs allow us to organize and find insight in large amounts of data. On a more concrete level, graph databases have been part of my ecommerce projects.
+
+I have a fasincation with programming languages. Specifically the Lisp family of languages. More generally with the design and trade offs which ultimately lead to the language's user experince.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
