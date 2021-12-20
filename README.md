@@ -16,6 +16,8 @@ I have a keen intrest in the abstract idea of connections and graphs. On a highe
 
 I have a fasincation with programming languages. Specifically the Lisp family of languages. More generally with the design and trade offs which ultimately lead to the language's user experince.
 
+I also enjoy functional programming and types. Those both allow me to create safer and easier to maintain code.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
