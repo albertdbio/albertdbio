@@ -18,6 +18,8 @@ I have a fasincation with programming languages. Specifically the Lisp family of
 
 I also enjoy functional programming and types. Those both allow me to create safer and easier to maintain code.
 
+My favorites text editor is Emacs but I also enjoy modal editors like Vim. Ultimetly I like to combine each of them, weather that be through Spacemacs or custom configurations such as with Hammerspoon.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
