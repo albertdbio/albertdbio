@@ -20,6 +20,8 @@ I also enjoy functional programming and types. Those both allow me to create saf
 
 My favorites text editor is Emacs but I also enjoy modal editors like Vim. Ultimately I like to combine each of them, whether that be through Spacemacs or custom configurations such as with Hammerspoon.
 
+I also have an interest in mathematics and physics. I find beautiful that equations can describe the world quite accurately and belive that computers can help us understand not just the physical world but also the world of mathematics.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
