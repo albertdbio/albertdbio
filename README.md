@@ -22,6 +22,8 @@ My favorites text editor is Emacs but I also enjoy modal editors like Vim. Ultim
 
 I also have an interest in mathematics and physics. I find beautiful that equations can describe the world quite accurately and belive that computers can help us understand not just the physical world but also the world of mathematics.
 
+My favorite tools include Amazing Marvin and Obsidian.md.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
