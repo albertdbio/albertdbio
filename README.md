@@ -24,6 +24,8 @@ I also have an interest in mathematics and physics. I find beautiful that equati
 
 My favorite tools include Amazing Marvin and Obsidian.md.
 
+My programming focus currently is Clojure and Elm. My aim is to learn different ways to make web apps.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
