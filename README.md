@@ -27,6 +27,8 @@ My favorite tools include Amazing Marvin and Obsidian.md.
 My programming focus currently is Clojure and Elm. My aim is to learn different ways to make web apps.
 Additionally I am learning and practicing UI design to be able to make my projects pleasing to use.
 
+I also have an interest in cryptocurrencies, particullary its use in incentivicing positive behaviors. This use of cryptocurrencies could potentially be used to counter the negative effects of engagement based algorithms.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
