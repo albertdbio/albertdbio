@@ -29,6 +29,8 @@ Additionally I am learning and practicing UI design to be able to make my projec
 
 I also have an interest in cryptocurrencies, particullary its use in incentivicing positive behaviors. This use of cryptocurrencies could potentially be used to counter the negative effects of engagement based algorithms.
 
+Outside of work I have several interest I'm actively pursing. I am an avid cyclist and enjoy training. I especially enjoy systemizing my training and experimenting with technologies such as heart rate monitors and power meters.
+
 <!--
 **albertdbio/albertdbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
